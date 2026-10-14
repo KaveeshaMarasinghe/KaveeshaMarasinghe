@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=KaveeshaMarasinghe&label=Profile+Views&color=2F8F71&style=for-the-badge" alt="Profile views" />
+<img src="https://hits.sh/github.com/KaveeshaMarasinghe/KaveeshaMarasinghe.svg?style=for-the-badge&label=Profile%20Views&color=1B5E4B&labelColor=555555" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/KaveeshaMarasinghe?label=Followers&style=for-the-badge&color=1B5E4B" alt="Followers" />
 
 </div>
